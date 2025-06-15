@@ -1,6 +1,6 @@
 package com.example.weatherinformationapi.services;
 
-import com.example.weatherinformationapi.configurations.WeatherConfig;
+import com.example.weatherinformationapi.WeatherConfig;
 import com.example.weatherinformationapi.models.WeatherResponse;
 import com.fasterxml.jackson.databind.JsonNode;
 import org.springframework.beans.factory.annotation.Autowired;
